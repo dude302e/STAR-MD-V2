@@ -7,17 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['234704535241', 'EXCEL', true], 
-  ['2348021779696', 'EXCEL', true], 
-  ['234704503541', '⚡Excel', true],
+  ['923271317231', 'EXCEL', true],
 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = ".2349021860251" //put your bot number here
 
-global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
-global.prems = ['2347045035241','233208179431','233533763772']
-global.allowed = ['2348021779696', '2347045035241']
+global.mods = ['923271317231'] 
+global.prems = ['923271317231']
+global.allowed = ['923271317231']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -52,21 +50,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = 'MRDEVELOPERSHAHZADA'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
+global.packname = 'MRDEVELOPSHAHZADA' 
 global.author = '@Excel' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z\n' 
+global.dygp='▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z/n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
+global.fgyt = 'https://www.youtube.com/mrdevelopershahzada'
+global.fgpyp = 'https://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _MRDEVEPLOERSHAHZADA IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '🔜'
 global.dmoji = '⚡'
 global.done = '☑️'
